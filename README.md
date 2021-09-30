@@ -1,8 +1,8 @@
 # Olá! Me chamo Henrique, mas me chamam de Shadow! 👋
 
-- 🐱‍👤 I’m currently working on my Data science Skills!
-- 🌱 I’m currently learning Linear Regression techniques! (I see the future 🔮, is it some kind of magic? 🧙🏻‍♂️)
-- 👯 I’m looking to collaborate on dev tools and some Data science projects.
+- 🐱‍👤 Atualmente, estou trabalhando em minhas habilidades de ciência de dados!
+- 🌱 Atualmente, estou aprendendo técnicas de regressão linear! (Eu vejo o futuro 🔮, é algum tipo de mágica? 🧙🏻‍♂️
+- 👯 Estou procurando colaborar em ferramentas de desenvolvimento e alguns projetos de ciência de dados.
 
 <blockquote>
 
