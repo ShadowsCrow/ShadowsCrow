@@ -1,4 +1,4 @@
-# Olá! Me chamo Henrique, mas me chamam de Shadow! 👋
+<img src="https://github.com/ShadowsCrow/ShadowsCrow/blob/main/shadow.gif"/>
 
 - 🐱‍👤 Atualmente, estou trabalhando em minhas habilidades de ciência de dados!
 - 🌱 Atualmente, estou aprendendo técnicas de regressão linear! (Eu vejo o futuro 🔮, é algum tipo de mágica? 🧙🏻‍♂️
@@ -21,4 +21,4 @@
 </div>
 </blockquote>
 
-<img src="https://github.com/ShadowsCrow/starligasOne/blob/main/office-funny.gif"/>
+<img src="https://github.com/ShadowsCrow/ShadowsCrow/blob/main/office-funny.gif"/>
