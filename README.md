@@ -21,4 +21,4 @@
 </div>
 </blockquote>
 
-<img src="https://github.com/ShadowsCrow/ShadowsCrow/blob/main/office-funny.gif"/>
+<img src="https://github.com/ShadowsCrow/ShadowsCrow/blob/main/office-funny.gif"/> 
