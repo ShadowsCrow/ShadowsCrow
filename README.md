@@ -1,6 +1,6 @@
 <img src="https://github.com/ShadowsCrow/ShadowsCrow/blob/main/shadow.gif"/>
 
-Tenho um sistema de gerenciamento de compras desenvolvido unicamente por mim, que está sob o uso de uma empresa, após um ano de desenvolvimento, tem como objetivo automatizar diversas tarefas da empresa relacionadas a compra.
+Tenho um sistema de gerenciamento de compras desenvolvido unicamente por mim, em PYTHON, que está sob o uso da empresa que trabalho atualmente. Após um ano de desenvolvimento, tem como objetivo automatizar diversas tarefas da empresa relacionadas a compra.
 
 - 🐱‍👤 Atualmente, estou trabalhando em minhas habilidades de ciência de dados e BI!
 - 🌱 Estou aprendendo técnicas de regressão linear! (Eu vejo o futuro 🔮, é algum tipo de mágica?) 🧙🏻‍♂️
