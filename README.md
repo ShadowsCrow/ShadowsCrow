@@ -2,7 +2,7 @@
 
 Tenho um sistema de gerenciamento de compras desenvolvido unicamente por mim, em PYTHON, que está sob o uso da empresa que trabalho atualmente. Após um ano de desenvolvimento, tem como objetivo automatizar diversas tarefas da empresa relacionadas a compra.
 
-- 🚀 <h1>Automação Python!</h1>
+- 🚀 <h2>Python is awesome!</h2>
 - 🐱‍👤 Possuo conhecimentos nas areas de ciência de dados, BI e segurança!
 - 👯 Procuro colaborar com a comunidade em ferramentas de desenvolvimento e alguns projetos disponibilizando alguns projetos aleatorios.
 
