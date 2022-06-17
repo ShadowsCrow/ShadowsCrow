@@ -4,7 +4,7 @@ Desenvolvi um sistema de gerenciamento de compras sozinho, em PYTHON, que está 
 
 - 🚀 Python is awesome!
 - 🐗 Aprendendo mais sobre Java!
-- 🐱‍👤 Possuo conhecimentos nas areas de ciência de dados, BI e segurança!
+- 🐱‍👤 Sou entusiasta das areas de ciência de dados, BI e segurança!
 - 👯 Procuro colaborar com a comunidade em ferramentas de desenvolvimento e alguns projetos disponibilizando alguns projetos aleatorios.
 
 <blockquote>
