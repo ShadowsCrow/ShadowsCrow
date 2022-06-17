@@ -1,6 +1,6 @@
 <img src="https://github.com/ShadowsCrow/ShadowsCrow/blob/main/shadow.gif"/>
 
-Desenvolvi um sistema de gerenciamento de compras desenvolvido unicamente por mim, em PYTHON, que está sob o uso da empresa que trabalho atualmente. Após um ano de desenvolvimento, tem como objetivo automatizar diversas tarefas da empresa relacionadas a compra.
+Desenvolvi um sistema de gerenciamento de compras sozinho, em PYTHON, que está sob o uso da empresa que trabalho atualmente. Após um ano de desenvolvimento, tem como objetivo automatizar diversas tarefas da empresa relacionadas a compra.
 
 - 🚀 Python is awesome!
 - 🐗 Aprendendo mais sobre Java!
