@@ -64,9 +64,6 @@ Uso a linguagem que o problema pede.
 | Projeto | O que é | Tecnologia |
 |---|---|---|
 | 🌑 [**Cursed**](https://github.com/ShadowsCrow/Cursed) | Projeto em TypeScript | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) |
-| 🎲 [**CursedMirror**](https://github.com/ShadowsCrow/CursedMirror) | Plataforma para RPG de mesa | ![RPG](https://img.shields.io/badge/-Plataforma-8e2de2?style=flat-square) |
-| 🔗 [**Blockchain**](https://github.com/ShadowsCrow/Blockchain) | Estudo prático de blockchain | ![Py](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
-| 🧩 [**person-service**](https://github.com/ShadowsCrow/person-service) | Serviço de pessoas | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) |
 
 <br/>
 
